@@ -1,6 +1,12 @@
+
+![giphy](https://user-images.githubusercontent.com/48796009/226277535-d54a90eb-d93d-468e-8918-19b3c10aaaab.gif)
+
+
 <h1 align="center">Hi 👋, I'm Nitin Gour</h1>
 <h3 align="center">A passionate Data scientists from India</h3>
-<img align="right" alt="coding" width="400" src ="![image](https://user-images.githubusercontent.com/48796009/226249960-7faa92cf-3feb-4f8c-9401-88dd2d76b836.png)">
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitingour1203&label=Profile%20views&color=0e75b6&style=flat" alt="nitingour1203" /> </p>
 
 - 🌱 I’m currently learning **deep learning**
