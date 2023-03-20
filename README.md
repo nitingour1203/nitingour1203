@@ -1,7 +1,5 @@
 
 
-![image](https://user-images.githubusercontent.com/48796009/226279311-aecff18b-e492-4b25-9bad-59a85790107f.png)
-
 
 
 <h1 align="center">Hi 👋, I'm Nitin Gour</h1>
