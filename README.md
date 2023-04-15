@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/48796009/232238577-39c797ef-cc7e-4c36-a085-1f12530e50d1.png)
+
 
 # 💫 About Me:
 A Data Scientist specializing in Python, machine learning, Big Data, and data management. 
