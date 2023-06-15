@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Nitin Gour</h1>
-<h3 align="center">A passionate Data Scientist specializing in Python, machine learning, Big Data, and data management. Adept at performing statistical analysis on large, complex data sets to drive business intelligence and enhance data visualization.</h3>
+<h3 align="center">A passionate Data Scientist specializing in Python, machine learning, deep learning, Natural language processing, Big Data, and data management. Adept at performing statistical analysis on large, complex data sets to drive business intelligence and enhance data visualization.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitingour1203&label=Profile%20views&color=0e75b6&style=flat" alt="nitingour1203" /> </p>
 
